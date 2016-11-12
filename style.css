@@ -1,0 +1,16 @@
+h1{
+	color: red;
+	font-size: 16px;
+	text-align: left-center;
+	background-color: white;
+	font-size: 27px;
+}
+body{
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8JQIwAKYGL16P2tkQ3iv3w9Xwy-FRo89g_EUr9eevQgPqom3h");
+	background-repeat: no-repeat;
+	color: springgreen;
+	background-size: 100%;
+}
+h2{
+	letter-spacing: 1px;
+}
